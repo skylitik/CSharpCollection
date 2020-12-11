@@ -15,12 +15,16 @@ namespace CSharpCollection
             CSVReader csvReader = new CSVReader(filePath);
 
             List<City> cities = csvReader.ReadAllCities();
+            City cityTest = new City("Sosnowiec", "SOS", "Polska", 3000000, 1600000, 1400000);
+            int index = cities.FindIndex(city => city.TotalPopulation < 3000000);
+            cities.Insert(index, cityTest);
+            //cities.Remove(cityTest);
 
             foreach (var city in cities)
             {
                 Console.WriteLine($"{city.TotalPopulation:### ### ###} : {city.CityCode} : {city.CityName}");
             }
-           
+            Console.WriteLine($"{cities.Count} cities");
         }
     }
 }

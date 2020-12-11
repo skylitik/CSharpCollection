@@ -10,7 +10,7 @@ namespace CSharpCollection
     {
         static void Main(string[] args)
         {
-            string filePath = @"C:Users\skyli\Downloads\rezydenci_2019.csv";
+            string filePath = @"C:\Users\skyli\source\repos\CSharpCollection\CSharpCollection\rezydenci_2019.csv";
 
             CSVReader csvReader = new CSVReader(filePath);
 
@@ -18,7 +18,7 @@ namespace CSharpCollection
 
             foreach (var city in cities)
             {
-                Console.WriteLine($"{city.TotalPopulation} : {city.CityCode} : {city.CityName}");
+                Console.WriteLine($"{city.TotalPopulation:### ### ###} : {city.CityCode} : {city.CityName}");
             }
            
         }

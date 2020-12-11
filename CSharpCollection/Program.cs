@@ -14,7 +14,7 @@ namespace CSharpCollection
 
             CSVReader csvReader = new CSVReader(filePath);
 
-            City[] cities = csvReader.ReadFirstNCities(7);
+            List<City> cities = csvReader.ReadAllCities();
 
             foreach (var city in cities)
             {

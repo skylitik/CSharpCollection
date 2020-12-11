@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System.Collections.Generic;
+using System.IO;
 namespace CSharpCollection
 {
     public class CSVReader
@@ -10,17 +11,17 @@ namespace CSharpCollection
             _csvFilePath = csvFilePath;
         }
 
-        public City[] ReadFirstNCities(int nCities)
+        public List<City> ReadAllCities()
         {
-            City[] cities = new City[nCities];
+            List<City> cities = new List<City>();
             using (StreamReader streamReader = new StreamReader(_csvFilePath))
             {
                 //read header line
                 streamReader.ReadLine();
-                for (int i = 0; i < nCities; i++)
-                {
-                    string csvLine = streamReader.ReadLine();
-                    cities[i] = ReadCityFromCsvLine(csvLine);
+                string csvLine;
+                while ((csvLine = streamReader.ReadLine()) != null)
+                {                    
+                    cities.Add(ReadCityFromCsvLine(csvLine));
                 }
             }
             return cities;

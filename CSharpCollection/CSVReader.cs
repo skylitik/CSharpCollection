@@ -11,9 +11,9 @@ namespace CSharpCollection
             _csvFilePath = csvFilePath;
         }
 
-        public Dictionary<string, City> ReadAllCities()
+        public Stack<City> ReadAllCities()
         {
-            var cities = new Dictionary<string, City>();
+            Stack<City> cities = new Stack<City>();
             using (StreamReader streamReader = new StreamReader(_csvFilePath))
             {
                 //read header line
@@ -21,8 +21,8 @@ namespace CSharpCollection
                 string csvLine;
                 while ((csvLine = streamReader.ReadLine()) != null)
                 {
-                    City city = ReadCityFromCsvLine(csvLine);
-                    cities.Add(city.CityCode, city);
+                    cities.Push(ReadCityFromCsvLine(csvLine));
+                    
                 }
             }
             return cities;

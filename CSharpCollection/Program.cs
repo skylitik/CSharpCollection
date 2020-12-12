@@ -14,14 +14,11 @@ namespace CSharpCollection
 
             CSVReader csvReader = new CSVReader(filePath);
 
-            Dictionary<string, City> cities = csvReader.ReadAllCities();
-            Console.WriteLine("Which city code do you want to search for?");
-            string userInput = Console.ReadLine();
-            bool getCity = cities.TryGetValue(userInput, out City city);
-            if (!getCity)
-                Console.WriteLine($"There is no city with code, {userInput}");
-            else
+            Stack<City> cities = csvReader.ReadAllCities();
+            foreach (var city in cities)
+            {
                 Console.WriteLine($"{city.TotalPopulation:### ### ###} : {city.CityCode} : {city.CityName}");
+            }
         }
     }
 }

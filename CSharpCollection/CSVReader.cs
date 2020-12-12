@@ -11,17 +11,18 @@ namespace CSharpCollection
             _csvFilePath = csvFilePath;
         }
 
-        public List<City> ReadAllCities()
+        public Dictionary<string, City> ReadAllCities()
         {
-            List<City> cities = new List<City>();
+            var cities = new Dictionary<string, City>();
             using (StreamReader streamReader = new StreamReader(_csvFilePath))
             {
                 //read header line
                 streamReader.ReadLine();
                 string csvLine;
                 while ((csvLine = streamReader.ReadLine()) != null)
-                {                    
-                    cities.Add(ReadCityFromCsvLine(csvLine));
+                {
+                    City city = ReadCityFromCsvLine(csvLine);
+                    cities.Add(city.CityCode, city);
                 }
             }
             return cities;

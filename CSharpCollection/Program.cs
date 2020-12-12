@@ -14,17 +14,14 @@ namespace CSharpCollection
 
             CSVReader csvReader = new CSVReader(filePath);
 
-            List<City> cities = csvReader.ReadAllCities();
-            City cityTest = new City("Sosnowiec", "SOS", "Polska", 3000000, 1600000, 1400000);
-            int index = cities.FindIndex(city => city.TotalPopulation < 3000000);
-            cities.Insert(index, cityTest);
-            //cities.Remove(cityTest);
-
-            foreach (var city in cities)
-            {
+            Dictionary<string, City> cities = csvReader.ReadAllCities();
+            Console.WriteLine("Which city code do you want to search for?");
+            string userInput = Console.ReadLine();
+            bool getCity = cities.TryGetValue(userInput, out City city);
+            if (!getCity)
+                Console.WriteLine($"There is no city with code, {userInput}");
+            else
                 Console.WriteLine($"{city.TotalPopulation:### ### ###} : {city.CityCode} : {city.CityName}");
-            }
-            Console.WriteLine($"{cities.Count} cities");
         }
     }
 }

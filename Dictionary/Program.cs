@@ -28,6 +28,8 @@ namespace Dictionary
             cities.Remove(malopolskie.CityCode);
 
             cities[slaskie.CityCode] = malopolskie;
+            bool exist = cities.ContainsKey(slaskie.CityCode);
+            Console.WriteLine(exist);
 
             foreach (var city2 in cities.Values)
             {

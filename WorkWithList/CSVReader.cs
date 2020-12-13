@@ -42,11 +42,7 @@ namespace CSharpCollection
 
         public void RemoveTestCities(List<City> cities)
         {
-            for (int i = cities.Count - 1; i >= 0; i--)
-            {
-                if (cities[i].CityName.Contains("Test"))
-                    cities.RemoveAt(i);                
-            }
+            cities.RemoveAll(c => c.CityName.Contains("Test"));
         }
     }
 }

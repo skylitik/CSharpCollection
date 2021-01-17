@@ -1,0 +1,7 @@
+C:\Users\skyli\source\repos\CSharpCollection\CSharpCollection\bin\Debug\CSharpCollection.exe.config
+C:\Users\skyli\source\repos\CSharpCollection\CSharpCollection\bin\Debug\CSharpCollection.exe
+C:\Users\skyli\source\repos\CSharpCollection\CSharpCollection\bin\Debug\CSharpCollection.pdb
+C:\Users\skyli\source\repos\CSharpCollection\CSharpCollection\obj\Debug\Array_1.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\CSharpCollection\CSharpCollection\obj\Debug\Array_1.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\CSharpCollection\CSharpCollection\obj\Debug\CSharpCollection.exe
+C:\Users\skyli\source\repos\CSharpCollection\CSharpCollection\obj\Debug\CSharpCollection.pdb

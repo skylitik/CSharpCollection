@@ -1,0 +1,7 @@
+C:\Users\skyli\source\repos\FlowControl\FlowControl\bin\Debug\FlowControl.exe.config
+C:\Users\skyli\source\repos\FlowControl\FlowControl\bin\Debug\FlowControl.exe
+C:\Users\skyli\source\repos\FlowControl\FlowControl\bin\Debug\FlowControl.pdb
+C:\Users\skyli\source\repos\FlowControl\FlowControl\obj\Debug\FlowControl.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\FlowControl\FlowControl\obj\Debug\FlowControl.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\FlowControl\FlowControl\obj\Debug\FlowControl.exe
+C:\Users\skyli\source\repos\FlowControl\FlowControl\obj\Debug\FlowControl.pdb

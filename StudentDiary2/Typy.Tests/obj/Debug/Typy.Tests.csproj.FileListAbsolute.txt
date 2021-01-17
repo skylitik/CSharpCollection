@@ -1,0 +1,17 @@
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Typy.Tests.dll
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Typy.Tests.pdb
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\obj\Debug\Typy.Tests.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\obj\Debug\Typy.Tests.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\obj\Debug\Typy.Tests.csproj.CopyComplete
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\obj\Debug\Typy.Tests.dll
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\obj\Debug\Typy.Tests.pdb
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Typy.exe
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Typy.pdb
+C:\Users\skyli\source\repos\StudentDiary2\Typy.Tests\bin\Debug\Typy.exe.config

@@ -1,0 +1,10 @@
+C:\Users\skyli\source\repos\Contacts\StrangePool\bin\Debug\StrangePool.exe.config
+C:\Users\skyli\source\repos\Contacts\StrangePool\bin\Debug\StrangePool.exe
+C:\Users\skyli\source\repos\Contacts\StrangePool\bin\Debug\StrangePool.pdb
+C:\Users\skyli\source\repos\Contacts\StrangePool\obj\Debug\StrangePool.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\Contacts\StrangePool\obj\Debug\StrangePool.Form1.resources
+C:\Users\skyli\source\repos\Contacts\StrangePool\obj\Debug\StrangePool.Properties.Resources.resources
+C:\Users\skyli\source\repos\Contacts\StrangePool\obj\Debug\StrangePool.csproj.GenerateResource.cache
+C:\Users\skyli\source\repos\Contacts\StrangePool\obj\Debug\StrangePool.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\Contacts\StrangePool\obj\Debug\StrangePool.exe
+C:\Users\skyli\source\repos\Contacts\StrangePool\obj\Debug\StrangePool.pdb

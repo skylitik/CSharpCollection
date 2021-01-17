@@ -1,0 +1,10 @@
+C:\Users\skyli\source\repos\Contacts\Acid\bin\Debug\Acid.exe.config
+C:\Users\skyli\source\repos\Contacts\Acid\bin\Debug\Acid.exe
+C:\Users\skyli\source\repos\Contacts\Acid\bin\Debug\Acid.pdb
+C:\Users\skyli\source\repos\Contacts\Acid\obj\Debug\Acid.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\Contacts\Acid\obj\Debug\Acid.FlashLight.resources
+C:\Users\skyli\source\repos\Contacts\Acid\obj\Debug\Acid.Properties.Resources.resources
+C:\Users\skyli\source\repos\Contacts\Acid\obj\Debug\Acid.csproj.GenerateResource.cache
+C:\Users\skyli\source\repos\Contacts\Acid\obj\Debug\Acid.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\Contacts\Acid\obj\Debug\Acid.exe
+C:\Users\skyli\source\repos\Contacts\Acid\obj\Debug\Acid.pdb

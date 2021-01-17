@@ -1,0 +1,11 @@
+C:\Users\skyli\source\repos\CSharpCollection\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\skyli\source\repos\CSharpCollection\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\skyli\source\repos\CSharpCollection\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\skyli\source\repos\CSharpCollection\Dictionary\bin\Debug\CSharpCollection.exe
+C:\Users\skyli\source\repos\CSharpCollection\Dictionary\bin\Debug\CSharpCollection.pdb
+C:\Users\skyli\source\repos\CSharpCollection\Dictionary\bin\Debug\CSharpCollection.exe.config
+C:\Users\skyli\source\repos\CSharpCollection\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\CSharpCollection\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\CSharpCollection\Dictionary\obj\Debug\Dictionary.csproj.CopyComplete
+C:\Users\skyli\source\repos\CSharpCollection\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\skyli\source\repos\CSharpCollection\Dictionary\obj\Debug\Dictionary.pdb

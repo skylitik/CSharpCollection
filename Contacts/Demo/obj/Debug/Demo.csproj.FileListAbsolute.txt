@@ -1,0 +1,10 @@
+C:\Users\skyli\source\repos\Contacts\Demo\bin\Debug\Demo.exe.config
+C:\Users\skyli\source\repos\Contacts\Demo\bin\Debug\Demo.exe
+C:\Users\skyli\source\repos\Contacts\Demo\bin\Debug\Demo.pdb
+C:\Users\skyli\source\repos\Contacts\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\Contacts\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\skyli\source\repos\Contacts\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\skyli\source\repos\Contacts\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\skyli\source\repos\Contacts\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\Contacts\Demo\obj\Debug\Demo.exe
+C:\Users\skyli\source\repos\Contacts\Demo\obj\Debug\Demo.pdb

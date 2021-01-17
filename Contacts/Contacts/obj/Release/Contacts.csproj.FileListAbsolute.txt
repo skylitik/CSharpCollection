@@ -1,0 +1,16 @@
+C:\Users\skyli\source\repos\Contacts\Contacts\obj\Release\Contacts.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\Contacts\Contacts\obj\Release\Contacts.Form1.resources
+C:\Users\skyli\source\repos\Contacts\Contacts\obj\Release\Contacts.Properties.Resources.resources
+C:\Users\skyli\source\repos\Contacts\Contacts\obj\Release\Contacts.csproj.GenerateResource.cache
+C:\Users\skyli\source\repos\Contacts\Contacts\obj\Release\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\Contacts\Contacts\bin\Release\ContactDB.mdf
+C:\Users\skyli\source\repos\Contacts\Contacts\bin\Release\ContactDB_log.ldf
+C:\Users\skyli\source\repos\Contacts\Contacts\bin\Release\Contacts.exe.config
+C:\Users\skyli\source\repos\Contacts\Contacts\bin\Release\Contacts.exe.manifest
+C:\Users\skyli\source\repos\Contacts\Contacts\bin\Release\Contacts.application
+C:\Users\skyli\source\repos\Contacts\Contacts\bin\Release\Contacts.exe
+C:\Users\skyli\source\repos\Contacts\Contacts\bin\Release\Contacts.pdb
+C:\Users\skyli\source\repos\Contacts\Contacts\obj\Release\Contacts.exe.manifest
+C:\Users\skyli\source\repos\Contacts\Contacts\obj\Release\Contacts.application
+C:\Users\skyli\source\repos\Contacts\Contacts\obj\Release\Contacts.exe
+C:\Users\skyli\source\repos\Contacts\Contacts\obj\Release\Contacts.pdb

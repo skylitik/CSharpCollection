@@ -1,0 +1,7 @@
+C:\Users\skyli\source\repos\CSharpCollection\Array2\bin\Debug\Array2.exe.config
+C:\Users\skyli\source\repos\CSharpCollection\Array2\bin\Debug\Array2.exe
+C:\Users\skyli\source\repos\CSharpCollection\Array2\bin\Debug\Array2.pdb
+C:\Users\skyli\source\repos\CSharpCollection\Array2\obj\Debug\Array2.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\CSharpCollection\Array2\obj\Debug\Array2.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\CSharpCollection\Array2\obj\Debug\Array2.exe
+C:\Users\skyli\source\repos\CSharpCollection\Array2\obj\Debug\Array2.pdb

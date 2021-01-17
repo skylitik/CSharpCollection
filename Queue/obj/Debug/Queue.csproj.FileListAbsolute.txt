@@ -1,0 +1,7 @@
+C:\Users\skyli\source\repos\CSharpCollection\Queue\bin\Debug\Queue.exe.config
+C:\Users\skyli\source\repos\CSharpCollection\Queue\bin\Debug\Queue.exe
+C:\Users\skyli\source\repos\CSharpCollection\Queue\bin\Debug\Queue.pdb
+C:\Users\skyli\source\repos\CSharpCollection\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\CSharpCollection\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\CSharpCollection\Queue\obj\Debug\Queue.exe
+C:\Users\skyli\source\repos\CSharpCollection\Queue\obj\Debug\Queue.pdb

@@ -1,0 +1,7 @@
+C:\Users\skyli\source\repos\StudentDiary2\StudentDiary2\bin\Debug\StudentDiary2.exe.config
+C:\Users\skyli\source\repos\StudentDiary2\StudentDiary2\bin\Debug\StudentDiary2.exe
+C:\Users\skyli\source\repos\StudentDiary2\StudentDiary2\bin\Debug\StudentDiary2.pdb
+C:\Users\skyli\source\repos\StudentDiary2\StudentDiary2\obj\Debug\Speak.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\StudentDiary2\StudentDiary2\obj\Debug\Speak.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\StudentDiary2\StudentDiary2\obj\Debug\StudentDiary2.exe
+C:\Users\skyli\source\repos\StudentDiary2\StudentDiary2\obj\Debug\StudentDiary2.pdb

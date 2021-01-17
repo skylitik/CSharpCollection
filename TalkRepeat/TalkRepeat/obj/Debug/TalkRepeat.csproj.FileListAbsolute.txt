@@ -1,0 +1,10 @@
+C:\Users\skyli\source\repos\TalkRepeat\TalkRepeat\bin\Debug\TalkRepeat.exe.config
+C:\Users\skyli\source\repos\TalkRepeat\TalkRepeat\bin\Debug\TalkRepeat.exe
+C:\Users\skyli\source\repos\TalkRepeat\TalkRepeat\bin\Debug\TalkRepeat.pdb
+C:\Users\skyli\source\repos\TalkRepeat\TalkRepeat\obj\Debug\TalkRepeat.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\TalkRepeat\TalkRepeat\obj\Debug\TalkRepeat.Form1.resources
+C:\Users\skyli\source\repos\TalkRepeat\TalkRepeat\obj\Debug\TalkRepeat.Properties.Resources.resources
+C:\Users\skyli\source\repos\TalkRepeat\TalkRepeat\obj\Debug\TalkRepeat.csproj.GenerateResource.cache
+C:\Users\skyli\source\repos\TalkRepeat\TalkRepeat\obj\Debug\TalkRepeat.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\TalkRepeat\TalkRepeat\obj\Debug\TalkRepeat.exe
+C:\Users\skyli\source\repos\TalkRepeat\TalkRepeat\obj\Debug\TalkRepeat.pdb

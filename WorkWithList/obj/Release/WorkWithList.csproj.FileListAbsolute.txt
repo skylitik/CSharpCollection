@@ -1,0 +1,7 @@
+C:\Users\skyli\source\repos\CSharpCollection\WorkWithList\bin\Release\WorkWithList.exe.config
+C:\Users\skyli\source\repos\CSharpCollection\WorkWithList\bin\Release\WorkWithList.exe
+C:\Users\skyli\source\repos\CSharpCollection\WorkWithList\bin\Release\WorkWithList.pdb
+C:\Users\skyli\source\repos\CSharpCollection\WorkWithList\obj\Release\WorkWithList.csprojAssemblyReference.cache
+C:\Users\skyli\source\repos\CSharpCollection\WorkWithList\obj\Release\WorkWithList.csproj.CoreCompileInputs.cache
+C:\Users\skyli\source\repos\CSharpCollection\WorkWithList\obj\Release\WorkWithList.exe
+C:\Users\skyli\source\repos\CSharpCollection\WorkWithList\obj\Release\WorkWithList.pdb

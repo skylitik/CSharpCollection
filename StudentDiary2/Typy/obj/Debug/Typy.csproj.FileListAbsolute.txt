@@ -1,7 +1,0 @@
-C:\Users\skyli\source\repos\StudentDiary2\Typy\bin\Debug\Typy.exe.config
-C:\Users\skyli\source\repos\StudentDiary2\Typy\bin\Debug\Typy.exe
-C:\Users\skyli\source\repos\StudentDiary2\Typy\bin\Debug\Typy.pdb
-C:\Users\skyli\source\repos\StudentDiary2\Typy\obj\Debug\Typy.csproj.CoreCompileInputs.cache
-C:\Users\skyli\source\repos\StudentDiary2\Typy\obj\Debug\Typy.exe
-C:\Users\skyli\source\repos\StudentDiary2\Typy\obj\Debug\Typy.pdb
-C:\Users\skyli\source\repos\StudentDiary2\Typy\obj\Debug\Typy.csprojAssemblyReference.cache
